@@ -1,5 +1,5 @@
 # Desafio 1
-##Criando um repositório no GitHub, clonar, atualizar e sincronizar.
+## Criando um repositório no GitHub, clonar, atualizar e sincronizar.
 Comandos utilizados:
 - New repository no site do GitHub: cria o repositório 
 - git clone: clona o respositório na máquina
