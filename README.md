@@ -1,2 +1,2 @@
 # dio-bootcamps
-Diretório destinado aos trabalhos e desafios dos bootcamps da DIO
+Repositório destinado aos trabalhos e desafios dos bootcamps da DIO
