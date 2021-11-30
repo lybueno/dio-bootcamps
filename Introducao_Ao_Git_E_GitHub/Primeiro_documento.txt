@@ -1,0 +1,2 @@
+# Desafio 1
+Criando um repositório no GitHub, clonar, atualizar e sincronizar.
